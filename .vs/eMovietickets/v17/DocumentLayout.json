@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anuru\\Downloads\\eMovietickets-master\\eMovietickets-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{81A67312-874A-480D-9519-0DB742FA197A}|eMovietickets\\eMovietickets.csproj|c:\\users\\anuru\\downloads\\emovietickets-master\\emovietickets-master\\emovietickets\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{81A67312-874A-480D-9519-0DB742FA197A}|eMovietickets\\eMovietickets.csproj|solutionrelative:emovietickets\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81A67312-874A-480D-9519-0DB742FA197A}|eMovietickets\\eMovietickets.csproj|c:\\users\\anuru\\downloads\\emovietickets-master\\emovietickets-master\\emovietickets\\views\\home\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{81A67312-874A-480D-9519-0DB742FA197A}|eMovietickets\\eMovietickets.csproj|solutionrelative:emovietickets\\views\\home\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81A67312-874A-480D-9519-0DB742FA197A}|eMovietickets\\eMovietickets.csproj|c:\\users\\anuru\\downloads\\emovietickets-master\\emovietickets-master\\emovietickets\\controllers\\smtpcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81A67312-874A-480D-9519-0DB742FA197A}|eMovietickets\\eMovietickets.csproj|solutionrelative:emovietickets\\controllers\\smtpcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81A67312-874A-480D-9519-0DB742FA197A}|eMovietickets\\eMovietickets.csproj|c:\\users\\anuru\\downloads\\emovietickets-master\\emovietickets-master\\emovietickets\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{81A67312-874A-480D-9519-0DB742FA197A}|eMovietickets\\eMovietickets.csproj|solutionrelative:emovietickets\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81A67312-874A-480D-9519-0DB742FA197A}|eMovietickets\\eMovietickets.csproj|c:\\users\\anuru\\downloads\\emovietickets-master\\emovietickets-master\\emovietickets\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81A67312-874A-480D-9519-0DB742FA197A}|eMovietickets\\eMovietickets.csproj|solutionrelative:emovietickets\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81A67312-874A-480D-9519-0DB742FA197A}|eMovietickets\\eMovietickets.csproj|c:\\users\\anuru\\downloads\\emovietickets-master\\emovietickets-master\\emovietickets\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81A67312-874A-480D-9519-0DB742FA197A}|eMovietickets\\eMovietickets.csproj|solutionrelative:emovietickets\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81A67312-874A-480D-9519-0DB742FA197A}|eMovietickets\\eMovietickets.csproj|c:\\users\\anuru\\downloads\\emovietickets-master\\emovietickets-master\\emovietickets\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{81A67312-874A-480D-9519-0DB742FA197A}|eMovietickets\\eMovietickets.csproj|solutionrelative:emovietickets\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81A67312-874A-480D-9519-0DB742FA197A}|eMovietickets\\eMovietickets.csproj|c:\\users\\anuru\\downloads\\emovietickets-master\\emovietickets-master\\emovietickets\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81A67312-874A-480D-9519-0DB742FA197A}|eMovietickets\\eMovietickets.csproj|solutionrelative:emovietickets\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81A67312-874A-480D-9519-0DB742FA197A}|eMovietickets\\eMovietickets.csproj|c:\\users\\anuru\\downloads\\emovietickets-master\\emovietickets-master\\emovietickets\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{81A67312-874A-480D-9519-0DB742FA197A}|eMovietickets\\eMovietickets.csproj|solutionrelative:emovietickets\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81A67312-874A-480D-9519-0DB742FA197A}|eMovietickets\\eMovietickets.csproj|c:\\users\\anuru\\downloads\\emovietickets-master\\emovietickets-master\\emovietickets\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{81A67312-874A-480D-9519-0DB742FA197A}|eMovietickets\\eMovietickets.csproj|solutionrelative:emovietickets\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\anuru\\Downloads\\eMovietickets-master\\eMovietickets-master\\eMovietickets\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "eMovietickets\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\anuru\\Downloads\\eMovietickets-master\\eMovietickets-master\\eMovietickets\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "eMovietickets\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAMwAAAAAAAAAAAAAADEAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T16:18:23.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\anuru\\Downloads\\eMovietickets-master\\eMovietickets-master\\eMovietickets\\Views\\Movies\\Index.cshtml",
+              "RelativeDocumentMoniker": "eMovietickets\\Views\\Movies\\Index.cshtml",
+              "ToolTip": "C:\\Users\\anuru\\Downloads\\eMovietickets-master\\eMovietickets-master\\eMovietickets\\Views\\Movies\\Index.cshtml",
+              "RelativeToolTip": "eMovietickets\\Views\\Movies\\Index.cshtml",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAEkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T16:18:23.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SMTPController.cs",
+              "DocumentMoniker": "C:\\Users\\anuru\\Downloads\\eMovietickets-master\\eMovietickets-master\\eMovietickets\\Controllers\\SMTPController.cs",
+              "RelativeDocumentMoniker": "eMovietickets\\Controllers\\SMTPController.cs",
+              "ToolTip": "C:\\Users\\anuru\\Downloads\\eMovietickets-master\\eMovietickets-master\\eMovietickets\\Controllers\\SMTPController.cs",
+              "RelativeToolTip": "eMovietickets\\Controllers\\SMTPController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T16:18:23.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\anuru\\Downloads\\eMovietickets-master\\eMovietickets-master\\eMovietickets\\appsettings.json",
+              "RelativeDocumentMoniker": "eMovietickets\\appsettings.json",
+              "ToolTip": "C:\\Users\\anuru\\Downloads\\eMovietickets-master\\eMovietickets-master\\eMovietickets\\appsettings.json",
+              "RelativeToolTip": "eMovietickets\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-02T16:18:23.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\anuru\\Downloads\\eMovietickets-master\\eMovietickets-master\\eMovietickets\\Startup.cs",
+              "RelativeDocumentMoniker": "eMovietickets\\Startup.cs",
+              "ToolTip": "C:\\Users\\anuru\\Downloads\\eMovietickets-master\\eMovietickets-master\\eMovietickets\\Startup.cs",
+              "RelativeToolTip": "eMovietickets\\Startup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEkAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T16:18:23.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\anuru\\Downloads\\eMovietickets-master\\eMovietickets-master\\eMovietickets\\Program.cs",
+              "RelativeDocumentMoniker": "eMovietickets\\Program.cs",
+              "ToolTip": "C:\\Users\\anuru\\Downloads\\eMovietickets-master\\eMovietickets-master\\eMovietickets\\Program.cs",
+              "RelativeToolTip": "eMovietickets\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T16:18:23.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\anuru\\Downloads\\eMovietickets-master\\eMovietickets-master\\eMovietickets\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "eMovietickets\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\anuru\\Downloads\\eMovietickets-master\\eMovietickets-master\\eMovietickets\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "eMovietickets\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABEAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T16:18:23.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\anuru\\Downloads\\eMovietickets-master\\eMovietickets-master\\eMovietickets\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "eMovietickets\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\anuru\\Downloads\\eMovietickets-master\\eMovietickets-master\\eMovietickets\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "eMovietickets\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T16:18:23.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "C:\\Users\\anuru\\Downloads\\eMovietickets-master\\eMovietickets-master\\eMovietickets\\Views\\Home\\Profile.cshtml",
+              "RelativeDocumentMoniker": "eMovietickets\\Views\\Home\\Profile.cshtml",
+              "ToolTip": "C:\\Users\\anuru\\Downloads\\eMovietickets-master\\eMovietickets-master\\eMovietickets\\Views\\Home\\Profile.cshtml",
+              "RelativeToolTip": "eMovietickets\\Views\\Home\\Profile.cshtml",
+              "ViewState": "AQIAAHEAAAAAAAAAAAAcwHsAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T10:29:52.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\anuru\\Downloads\\eMovietickets-master\\eMovietickets-master\\eMovietickets\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "eMovietickets\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\anuru\\Downloads\\eMovietickets-master\\eMovietickets-master\\eMovietickets\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "eMovietickets\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAAAIcAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-11T09:01:31.647Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
